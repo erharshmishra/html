@@ -1,0 +1,48 @@
+<!-- Recreate the following form using HTML. -->
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Question 2</title>
+    </head>
+    <body>
+        <form action="/server">
+            <div>
+                Name :
+                <input type="text" name="name">
+            </div>
+            <br>
+            <div>
+                Sex :
+                <input type="radio" name="sex" id="male">
+                <label for="male">Male</label>
+                <input type="radio" name="sex" id="female">
+                <label for="female">Female</label>
+            </div>
+            <br>
+            <div>
+                Country :
+                <select name="country" id="country">
+                    <option>Select an option</option>
+                    <option value="india">India</option>
+                    <option value="russia">Russia</option>
+                </select>
+            </div>
+            <br>
+            <div>
+                Message :
+                <br>
+                <textarea rows="6" cols="40" name="message"></textarea>
+            </div>
+            <br>
+            <div>
+                <input type="checkbox" id="checkbox" name="subscribe">
+                <label for="checkbox">Subscribe?</label>
+            </div>
+            <br>
+            <button>Submit</button>
+        </form>
+    </body>
+</html>
