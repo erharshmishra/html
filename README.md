@@ -7,11 +7,11 @@ This repository contains a structured collection of HTML practice exercises, ass
 Each folder is named by topic or exercise number and includes HTML files demonstrating that particular concept. Below is a brief description of each:
 
 ## 🚀 Getting Started
-- Hello_World – First HTML file; simple "Hello World" output.
-- Paragraph_Tag – Usage of <p> tag for paragraphs.
-- Heading_Tag – Demonstrates HTML heading tags from <h1> to <h6>
-- Practice_Question_1 – Exercises to reinforce basic HTML structure.
-- Boiler_Plate – Basic HTML5 document boilerplate setup.
+- Hello_World : First HTML file; simple "Hello World" output.
+- Paragraph_Tag : Usage of <p> tag for paragraphs.
+- Heading_Tag : Demonstrates HTML heading tags from <h1> to <h6>
+- Practice_Question_1 : Exercises to reinforce basic HTML structure.
+- Boiler_Plate : Basic HTML5 document boilerplate setup.
 
 ## 📝 HTML Elements and Tags
 - Unordered_List – Examples of <ul> and <li> elements.
