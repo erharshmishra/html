@@ -113,8 +113,8 @@ All files were added approximately 6 months ago, reflecting consistent learning 
 This is a personal learning repository, but feel free to fork or suggest improvements.
 
 ## ✍️ Author
-**Name:** Harsh Mishra
-**Email:** harshmishra8103@gmail.com
+**Name:** Harsh Mishra <br>
+**Email:** harshmishra8103@gmail.com <br>
 
 > Feel free to reach out for collaboration, feedback, or questions!
 
