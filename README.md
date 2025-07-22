@@ -1,6 +1,6 @@
 # html
 
-# 🌐 HTML Learning Repository
+## 🌐 HTML Learning Repository
 
 This repository is a beginner-friendly guide to learning HTML through examples, practice questions, and assignments. It is designed to help learners understand HTML concepts by working through hands-on files and building web development skills step by step.
 
@@ -8,7 +8,7 @@ This repository is a beginner-friendly guide to learning HTML through examples, 
 
 Each numbered folder contains files related to a specific HTML topic or a set of practice tasks. Below is a categorized explanation of the contents:
 
-### 🚀 Getting Started with HTML
+## 🚀 Getting Started with HTML
 
 | Folder Name         | Description                                  |
 |---------------------|----------------------------------------------|
@@ -18,7 +18,7 @@ Each numbered folder contains files related to a specific HTML topic or a set of
 | `4.Practice_Question_1` | Simple exercises to reinforce basic structure |
 | `5.Boiler_Plate`    | Standard HTML5 document structure template     |
 
-### 📝 Text and List Elements
+## 📝 Text and List Elements
 
 | Folder Name         | Description                                  |
 |---------------------|----------------------------------------------|
@@ -28,7 +28,7 @@ Each numbered folder contains files related to a specific HTML topic or a set of
 | `9.Image_Element`   | Adding images using the `<img>` tag           |
 | `10.Image_Element`  | Additional image examples or revisions        |
 
-### 🔤 Formatting Content
+## 🔤 Formatting Content
 
 | Folder Name              | Description                                      |
 |--------------------------|--------------------------------------------------|
@@ -40,7 +40,7 @@ Each numbered folder contains files related to a specific HTML topic or a set of
 | `16.Practice_Questions_3`| Mixed formatting exercises                        |
 | `17.Assignment_1`        | First mini-assignment based on formatting        |
 
-### 🧱 Layout and Grouping Elements
+## 🧱 Layout and Grouping Elements
 
 | Folder Name                  | Description                                         |
 |------------------------------|-----------------------------------------------------|
@@ -48,14 +48,14 @@ Each numbered folder contains files related to a specific HTML topic or a set of
 | `19.Division_Element`        | Grouping content with `<div>`                       |
 | `20.Span_Element`            | Inline grouping with `<span>`                      |
 
-### 🖼️ Visual Breaks and Special Text
+## 🖼️ Visual Breaks and Special Text
 
 | Folder Name                  | Description                               |
 |------------------------------|-------------------------------------------|
 | `21.Horizontal_Rule_Element` | Using `<hr>` to create horizontal lines   |
 | `22.Subscript_&_Superscript_Tag` | Using `<sub>` and `<sup>` for chemical or math text |
 
-### 🧠 Semantic Tags and Entities
+## 🧠 Semantic Tags and Entities
 
 | Folder Name             | Description                                      |
 |-------------------------|--------------------------------------------------|
@@ -64,7 +64,7 @@ Each numbered folder contains files related to a specific HTML topic or a set of
 | `25.Practice_Question_5`| Exercises on semantic HTML                      |
 | `26.HTML_Entities`      | Special characters like `&copy;`, `&nbsp;`      |
 
-### 📊 Tables
+## 📊 Tables
 
 | Folder Name                    | Description                                  |
 |--------------------------------|----------------------------------------------|
@@ -73,7 +73,7 @@ Each numbered folder contains files related to a specific HTML topic or a set of
 | `29.Tables_In_HTML`            | Basics of tables using `<table>`, `<tr>`, `<td>` |
 | `30.Colspan_Rowspan_Attributes`| Merging cells with `colspan` and `rowspan`  |
 
-### 🧩 HTML Forms and Input Fields
+## 🧩 HTML Forms and Input Fields
 
 | Folder Name                    | Description                                  |
 |--------------------------------|----------------------------------------------|
